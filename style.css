@@ -209,6 +209,28 @@ option {
     align-items: center;
 }
 
+.image-articles img {
+    width : 140px;
+    height: 100px;
+}
+
+.detail-articles h3{
+    color: #4F200D;
+}
+
+.detail-articles {
+    margin-left: 15px;
+    text-align: justify;
+}
+
+.detail-articles a {
+    text-decoration: none;
+    font-style: oblique;
+    font-size: medium;
+    color: #4274a3;
+}
+/* End Page Article */
+
 
 /* Footer */
 footer {
