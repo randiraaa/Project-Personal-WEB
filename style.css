@@ -91,3 +91,38 @@ nav ul li a:hover {
 }
 
 /* Page Home/Hero */
+
+/* Page Contact */
+
+#contactme h2 {
+    text-decoration: underline;
+    color: #4F200D;
+}
+
+#contactme p {
+    margin-bottom: 20px;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #F6F1E9;
+    padding: 20px;
+}
+
+.container label {
+    font-weight: bold;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+    color: #545454;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
