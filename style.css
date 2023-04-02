@@ -186,6 +186,29 @@ option {
     color: #4F200D;
 }
 
+/* End Page Skills */
+
+/* Page Article */
+.articlepath {
+    margin-bottom: 15px;
+}
+
+.articlepath h2 {
+    margin-bottom: 10px;
+    text-decoration: underline;
+    color: #4F200D;
+}
+
+.articles {
+    background-color: #F6F1E9;
+    margin: 25px 0;
+    display: flex;
+    border: 0;
+    padding: 25px;
+    border-radius: 10px;
+    align-items: center;
+}
+
 
 /* Footer */
 footer {
