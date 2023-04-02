@@ -152,6 +152,41 @@ option {
 
 /* End page contact */
 
+/* Page Skills */
+.skillspath h2 {
+    margin-bottom: 10px;
+    text-decoration: underline;
+    color: #4F200D;
+}
+
+.skills {
+    background-color: #F6F1E9;
+    display: flex;
+    align-items: center;
+    margin: 25px 0;
+    border: 0;
+    border-radius: 10px;
+    padding: 25px;
+}
+
+.image-skills img{
+    width: 100px;
+    height: 100px;
+}
+
+.detail-skills{
+    text-align: left;
+    margin-left: 20px;
+    margin-right: 0;
+    text-align: justify;
+}
+
+.detail-skills h3 {
+    font-size: larger;
+    color: #4F200D;
+}
+
+
 /* Footer */
 footer {
     align-items: center;
