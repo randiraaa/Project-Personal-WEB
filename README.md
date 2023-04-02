@@ -7,8 +7,8 @@ Feature :
 * About
 
 ## Wireframe
-![wireframe1](Wireframe1.jpg)  
-![Wireframe2](Wireframe2.jpg)
+![wireframe1](./F-image/Wireframe1.jpg)  
+![Wireframe2](./F-image/Wireframe2.jpg)
 
 ## File HTML & CSS
 ```
