@@ -259,6 +259,18 @@ option {
     width: 565px;
 }
 
+.aside-content {
+    position: fixed;
+    right: 250px;
+    top: 15%;
+    z-index: 1;    
+}
+
+.aside-content h4 {
+    color: #4F200D;
+}
+/* End Article Content */
+
 
 /* Footer */
 footer {
