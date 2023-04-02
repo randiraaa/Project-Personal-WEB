@@ -14,3 +14,31 @@ body {
     color: #545454;
     font-family: 'Poppins', sans-serif;
 }
+
+/* Page Home/Hero */
+
+header {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+main {
+    margin: 30px 0;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    gap: 50px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: #4F200D;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
