@@ -231,6 +231,34 @@ option {
 }
 /* End Page Article */
 
+/* Article Content */
+.main-article {
+    margin-right: 280px;
+}
+
+.content-article {
+    text-align: justify;
+}
+
+.text-content h2 {
+    color: #4F200D;
+}
+
+.text-content #date {
+    font-size: small;
+    font-style: oblique;
+    margin-bottom: 10px;;
+}
+
+.text-content p {
+    margin: 10px 0;
+    font-size: medium;
+}
+
+.img-content img{
+    width: 565px;
+}
+
 
 /* Footer */
 footer {
