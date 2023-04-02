@@ -19,3 +19,5 @@ content-article.html
 about.html
 style.css
 ```
+## Preview
+https://personalwebrandi.netlify.app
