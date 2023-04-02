@@ -19,11 +19,3 @@ content-article.html
 about.html
 style.css
 ```
-
-## Preview Page
-* HomePage & Contact Form (index.html)
-![index.html]()
-
-* Skills
-* Article Pages & Content Articles
-* About
